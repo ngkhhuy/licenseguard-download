@@ -1,2 +1,28 @@
-# licenseguard-download
-Official downloads for LicenseGuard
+# LicenseGuard Downloads
+
+Official download page for LicenseGuard.
+
+LicenseGuard is a local-only software license risk scanner for Windows.
+
+## Privacy
+
+- No login required
+- No data upload
+- No telemetry
+- Read-only scan
+- Does not activate, deactivate, remove, or modify software
+
+## Download
+
+Get the latest version here:
+
+https://github.com/khanhhuyconmetuyet/licenseguard-download/releases/latest
+
+## System requirements
+
+- Windows 10 or Windows 11
+- Some deep checks may require administrator permission
+
+## Note
+
+LicenseGuard provides software license risk signals, not legal conclusions.
