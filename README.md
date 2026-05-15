@@ -16,7 +16,7 @@ LicenseGuard is a local-only software license risk scanner for Windows.
 
 Get the latest version here:
 
-https://github.com/khanhhuyconmetuyet/licenseguard-download/releases/latest
+https://github.com/ngkhhuy/licenseguard-download/releases/tag/v1.0.0
 
 ## System requirements
 
